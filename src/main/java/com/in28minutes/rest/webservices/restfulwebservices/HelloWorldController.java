@@ -13,7 +13,7 @@ public class HelloWorldController {
 	}
     @GetMapping(path = "/hello")
     public String hello() {
-        return "Azure says, Hi There V2!";
+        return "Azure says, Hi There V10!";
     }
 
 
